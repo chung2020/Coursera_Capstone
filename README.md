@@ -6,6 +6,7 @@ The purpose of this study is trying to explore the possible reasons and conditio
 
 # Data
 The data used in this study is publicly available by Seattle Police Department, which includes records of all types of collisions, locations and more details (total 37 attributes) from 2004 to present. In this data, the severity of collision is the target variable for the study, which is assigned to five levels: fatality, serious injury, injury, prop damage and unknown. The detail information of attributes and data can be found on below links.
+
 Data available at:
 https://data-seattlecitygis.opendata.arcgis.com/datasets/collisions/data
 
